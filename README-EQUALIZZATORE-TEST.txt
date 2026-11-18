@@ -1,0 +1,1 @@
+Wallet-PRO 3.0 - Test equalizzatore voce\nIndicatore audio reale a 13 barre durante ascolto vocale offline, senza registrazione audio.\nSe il browser non supporta SpeechRecognition offline, la dettatura resta disponibile dalla tastiera.\nTestare su dispositivo prima della pubblicazione.\n
